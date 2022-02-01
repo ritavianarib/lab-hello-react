@@ -1,0 +1,19 @@
+.container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width:300px;
+    margin-top: 1000px ;
+    text-align: center;
+    font-family: poppins, Helvetica, sans-serif;
+  }
+
+  .cardContainer{
+    background: #ffffff;
+
+  }
+
+  .TextH {
+    color:rgba(30, 35, 50);
+    font-size: 18px;
+  }
+
+  
